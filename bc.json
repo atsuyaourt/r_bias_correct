@@ -1,0 +1,12 @@
+{
+	"inputDir": "data",
+    "obsDir": "aphro",
+    "modDir": "mod",
+	"bcDir": "bc",
+	"scriptDir": "scripts",
+    "sites": ["naga", "davao", "davao_oriental", "iloilo"],
+    "gcms": ["CanESM2", "CSIRO", "GFDL", "HadGEM2"],
+    "experiments": ["hist", "proj25", "proj50"],
+    "vars": ["pr", "tas"],
+	"bcMethod": "Quant"
+}
